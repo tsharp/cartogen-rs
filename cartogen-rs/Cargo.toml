@@ -1,8 +1,14 @@
 [package]
 name = "cartogen-rs"
-version = "0.1.0"
+version = "0.0.1"
+authors = ["Travis Sharp <furiousscissors@gmail.com>"]
+description = "cartogen noise generators"
+repository = "https://github.com/tsharp/cartogen-rs"
+keywords = ["cartogen", "procedural", "noise"]
+documentation = "https://docs.rs/cartogen-rs/latest/cartogen-rs/"
+license = "MIT"
 edition = "2021"
-publish = false
+publish = true
 
 [dependencies]
 cartogen-noise = { path = "../cartogen-noise" }

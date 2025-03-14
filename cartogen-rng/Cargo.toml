@@ -1,5 +1,11 @@
 [package]
 name = "cartogen-rng"
 version = "0.0.1"
+authors = ["Travis Sharp <furiousscissors@gmail.com>"]
+description = "cartogen random number generator"
+repository = "https://github.com/tsharp/cartogen-rs"
+keywords = ["procedural", "noise", "rng"]
+documentation = "https://docs.rs/cartogen-rs/latest/cartogen-rs/"
+license = "MIT"
 edition = "2021"
 publish = true
