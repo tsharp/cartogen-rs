@@ -1,0 +1,8 @@
+[workspace]
+
+members = [
+    "cartogen-rs",
+    "cartogen-rng",
+    "cartogen-noise",
+    "cartogen-sample"
+]

@@ -1,0 +1,8 @@
+[package]
+name = "cartogen-noise"
+version = "0.0.1"
+edition = "2021"
+publish = true
+
+[dependencies]
+cartogen-rng = { path = "../cartogen-rng" }
